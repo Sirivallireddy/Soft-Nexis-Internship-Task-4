@@ -1,0 +1,7 @@
+Task 4 – Hypothesis Testing (A/B Testing)
+
+This task focuses on conducting hypothesis testing on an A/B testing dataset (ab_data.csv) to evaluate whether a new website design led to higher user conversion rates compared to the existing version. The analysis began with thorough data cleaning and preprocessing, including the removal of duplicates and handling of missing values, to ensure the reliability of the statistical results. Conversion rates for the control and treatment groups were calculated and visualized to examine differences in overall performance between the two site versions.
+
+A Two-Proportion Z-Test was used to compare conversion rates and determine if the observed differences between groups were statistically significant. To gain deeper insights into user engagement, an independent T-Test was performed to assess differences in session duration between the control and treatment groups. Additionally, a Chi-Square Test was applied to investigate the relationship between group type and user country, helping to identify whether geographical location influenced conversion behavior.
+
+The outcomes of these statistical tests provided clear evidence regarding the effectiveness of the new design, distinguishing between genuine performance improvements and variations due to chance. This analysis enabled data-driven recommendations on whether the updated website design should be adopted more broadly.
